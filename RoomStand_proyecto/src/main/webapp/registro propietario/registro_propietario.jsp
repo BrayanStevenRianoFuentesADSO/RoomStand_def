@@ -72,8 +72,6 @@
             <input type="text" placeholder="Digite su telefono" class="input input2">
             <button class="form__button">Registrar</button>
           </div>
-
-
         </div>
       </div>
 
